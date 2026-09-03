@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Roberto Natera 👋
 
-<!--
-**Naterar/Naterar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**U.S. Navy Veteran (15 years) transitioning into technology.**
+Building across Software Development, Data Center Operations, and Cybersecurity — bringing military discipline and a break-it-down problem-solving mindset to code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm building right now
+- 🐍 Growing my **Python** and problem-solving skills through daily practice and projects
+- 🔐 Studying for **CompTIA Security+** (in progress)
+- ⚡ Hands-on cyber range experience (Microsoft Sentinel, KQL)
+- ☁️ **AWS Certified Cloud Practitioner**
+
+### 🎓 Background
+- **M.S.** Information Technology  |  **B.S.** Aeronautical Science
+- Navy: maintained complex electrical & mechanical systems to a zero-defect standard as a Construction Electrician and Aviation Machinist's Mate / QA Inspector
+- Bilingual 🇺🇸 🇪🇸 (English / Spanish)
+
+### 🎯 What I'm after
+Open to opportunities in **software development, data center operations, and cybersecurity** — including apprenticeships and veteran-focused programs.
+
+---
+
+*"Read the problem. Break it down. Build the solution."*
