@@ -6,10 +6,10 @@ Building across Software Development, Data Center Operations, and Cybersecurity 
 ---
 
 ### 🛠️ What I'm building right now
-- 🐍 Growing my **Python** and problem-solving skills through daily practice and projects
-- 🔐 Studying for **CompTIA Security+** (in progress)
-- ⚡ Hands-on cyber range experience (Microsoft Sentinel, KQL)
-- ☁️ **AWS Certified Cloud Practitioner**
+* 🐍 Growing my Python and problem-solving skills through daily practice and projects
+* 🔐 Google Cybersecurity Certificate (earned 2026) · CompTIA Security+ (in progress)
+* ⚡ Hands-on cyber range experience (Microsoft Sentinel, KQL)
+* ☁️ AWS Certified Cloud Practitioner
 
 ### 🎓 Background
 - **M.S.** Information Technology  |  **B.S.** Aeronautical Science
