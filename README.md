@@ -12,7 +12,7 @@ Building across Software Development, Data Center Operations, and Cybersecurity 
 * ☁️ AWS Certified Cloud Practitioner
 
 ### 🎓 Background
-- **M.S.** + **Post Master's Cert** Information Technology  |  **B.S.** Aeronautical Science
+- **M.S.** Information Technology | **Post-Master's Certificate**, Information Systems | **B.S.** Aeronautical Science
 - Navy: maintained complex electrical & mechanical systems to a zero-defect standard as a Construction Electrician and Aviation Machinist's Mate / QA Inspector
 - Bilingual 🇺🇸 🇪🇸 (English / Spanish)
 
