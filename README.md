@@ -2,7 +2,7 @@
 
 **Software test engineer and Python developer with a 15-year U.S. Navy background in aviation quality assurance.**
 
-For eleven years my job was verifying that complex systems met specification before they flew — writing and executing test procedures, isolating faults across interacting subsystems, and confirming a fix actually worked. Zero-defect standard, because the cost of a miss wasn't a bad release.
+My job was verifying that complex systems met specification before they flew — writing and executing test procedures, isolating faults across interacting subsystems, and confirming a fix actually worked. Zero-defect standard, because the cost of a miss wasn't a bad release.
 
 Same question, different systems now.
 
@@ -18,7 +18,7 @@ Also contains ten DISA Windows 11 STIG controls scripted in PowerShell, each rea
 
 **[python-practice](https://github.com/Naterar/python-practice)** — Applied Python covering object-oriented design, classes and inheritance, control flow, data structures, and module use. Aviation and motorsport domain problems — weight and balance calculator, weather minimums checker, pit stop fuel calculator.
 
-Includes formal test documentation for the weather minimums checker: 25 test cases spanning functional coverage, boundary value analysis at each threshold, evaluation-order precedence, and negative input handling.
+Includes formal test documentation across three programs — 77 test cases spanning functional and computational coverage, boundary value analysis, compound-condition truth tables, evaluation-order precedence, and negative input handling. Six defects logged, two High severity, one caught in requirements review before a single test was executed.
 
 ---
 
@@ -26,7 +26,7 @@ Includes formal test documentation for the weather minimums checker: 25 test cas
 
 The parts of these repos worth reading are the limitations, not the capabilities.
 
-A detection that joins failed logons to a subsequent success looks solid until you notice it has no time ordering and misses password spray entirely. A weather checker that reports only the first failing condition is correct behavior for its `elif` structure — but it means a pilot never learns a second limit was also breached. Three of my remediation scripts reported success and didn't take; the rescan is the only reason I know.
+A detection that joins failed logons to a subsequent success looks solid until you notice it has no time ordering and misses password spray entirely. A weather checker that reports only the first failing condition is correct behavior for its `elif` structure — but a pilot never learns a second limit was also breached. A weight calculator that accepts a negative ramp weight and prints it confidently is worse than one that crashes; the crash at least tells you something broke. Three of my remediation scripts reported success and didn't take — the rescan is the only reason I know.
 
 Documenting why something isn't a defect, and what it still costs the user, is the distinction I care about.
 
@@ -35,7 +35,7 @@ Documenting why something isn't a defect, and what it still costs the user, is t
 ### 🧰 Stack
 
 **Languages** `Python` `SQL` `KQL` `PowerShell` `Bash`
-**Testing** `Test case design` `Boundary value analysis` `Defect tracking` `Verification`
+**Testing** `Test case design` `Boundary value analysis` `Equivalence partitioning` `Defect tracking` `Verification`
 **Systems** `Linux` `Windows` `Windows Server` `Git` `VS Code`
 **Cloud & Security** `AWS` `Azure` `Microsoft Sentinel` `Defender XDR` `Tenable` `DISA STIG` `MITRE ATT&CK`
 **In progress** `pytest` `Playwright` `Django`
