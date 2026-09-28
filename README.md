@@ -1,6 +1,6 @@
 # Hi, I'm Roberto Natera 👋
 
-**Software test engineer and Python developer with a 15-year U.S. Navy background in aviation quality assurance.**
+**Moving from 15 years of U.S. Navy aviation quality assurance into cloud engineering and test automation — Python, AWS, Linux, and security.**
 
 My job was verifying that complex systems met specification before they flew — writing and executing test procedures, isolating faults across interacting subsystems, and confirming a fix actually worked. Zero-defect standard, because the cost of a miss wasn't a bad release.
 
@@ -18,7 +18,13 @@ Also contains ten DISA Windows 11 STIG controls scripted in PowerShell, each rea
 
 **[python-practice](https://github.com/Naterar/python-practice)** — Applied Python covering object-oriented design, classes and inheritance, control flow, data structures, and module use. Aviation and motorsport domain problems — weight and balance calculator, weather minimums checker, pit stop fuel calculator.
 
-Includes formal test documentation across three programs — 77 test cases spanning functional and computational coverage, boundary value analysis, compound-condition truth tables, evaluation-order precedence, and negative input handling. Six defects logged, two High severity, one caught in requirements review before a single test was executed.
+Includes formal test documentation across three programs — 77 test cases spanning functional and computational coverage, boundary value analysis, compound-condition truth tables, evaluation-order precedence, and negative input handling. Six defects logged, two High severity, one caught in requirements review before a single test was executed. The weather-minimums cases are now being automated in pytest with GitHub Actions.
+
+---
+
+### 🚧 Currently building
+
+**logon-triage** — A Python tool that reads Windows logon events and flags a burst of failed logons followed by a success from the same source IP: the KQL detection from soc-detection-lab, ported to code. Built test-first, one stage at a time — CLI and tests, then PostgreSQL storage, a FastAPI service, LLM-assisted triage with schema-validated output, then Docker, GitHub Actions, and an AWS deployment. Every stage ships with its own tests and a security check. Public once the first stage passes its tests.
 
 ---
 
@@ -38,7 +44,7 @@ Documenting why something isn't a defect, and what it still costs the user, is t
 **Testing** `Test case design` `Boundary value analysis` `Equivalence partitioning` `Defect tracking` `Verification`
 **Systems** `Linux` `Windows` `Windows Server` `Git` `VS Code`
 **Cloud & Security** `AWS` `Azure` `Microsoft Sentinel` `Defender XDR` `Tenable` `DISA STIG` `MITRE ATT&CK`
-**In progress** `pytest` `Playwright` `Django`
+**In progress** `pytest` `GitHub Actions` `AWS hands-on (EC2, VPC, S3, IAM)` `Docker` `FastAPI` `LLM APIs`
 
 ---
 
@@ -47,7 +53,7 @@ Documenting why something isn't a defect, and what it still costs the user, is t
 - **M.S.** Information Technology · **Post-Master's Certificate**, Information Systems · **B.S.** Aeronautical Science
 - Meta Programming in Python (2026) · Duke University OOP in Python (2026) · Meta Introduction to Back-End Development (2026)
 - AWS Certified Cloud Practitioner · Google Cybersecurity Professional Certificate (2026) · FCC General Radiotelephone Operator License · Lean Six Sigma Yellow Belt
-- CompTIA Security+ SY0-701 — **in progress**
+- CompTIA Security+ SY0-701 — **in progress**; next: AWS AI Practitioner and Solutions Architect – Associate
 - **Secret clearance** — inactive, investigation completed 2024
 - 100% service-connected disabled veteran — VEOA and 30%-or-more disabled veteran appointing authority eligible
 - Bilingual English / Spanish
@@ -56,6 +62,6 @@ Documenting why something isn't a defect, and what it still costs the user, is t
 
 ### 🎯 Open to
 
-Software test engineering, QA, and backend development. Remote or Jacksonville FL / Huntsville / Orlando / Northern Virginia / Chicago.
+Cloud support and engineering, QA and test automation, security analyst, federal IT specialist (2210), and data center operations roles. Remote, or Texas / Northern Virginia / Ohio / Florida.
 
 📫 nateraroberto@outlook.com · [LinkedIn](https://www.linkedin.com/in/roberto-natera)
