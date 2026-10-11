@@ -54,7 +54,7 @@ Documenting why something isn't a defect, and what it still costs the user, is t
 
 - **M.S.** Information Technology · **Post-Master's Certificate**, Information Systems · **B.S.** Aeronautical Science
 - **LogN Pacific Cyber Range** — Cybersecurity Internship (2026), completed; verifiable by employers
-- Meta Programming in Python (2026) · Duke University OOP in Python (2026) · Meta Introduction to Back-End Development (2026)
+- Meta Programming in Python (2026) · Duke University OOP in Python (2026) · Meta Introduction to Back-End Development (2026) · Claude Academy AI Fluency: Framework and Foundations (2026)
 - AWS Certified Cloud Practitioner · Google Cybersecurity Professional Certificate (2026) · FCC General Radiotelephone Operator License · Lean Six Sigma Yellow Belt
 - CompTIA Security+ SY0-701 — **in progress**; next: AWS AI Practitioner and Solutions Architect – Associate
 - **Secret clearance** — inactive, investigation completed 2024
