@@ -18,6 +18,8 @@ Also contains ten DISA Windows 11 STIG controls scripted in PowerShell, each rea
 
 **[python-practice](https://github.com/Naterar/python-practice)** — Applied Python covering object-oriented design, classes and inheritance, control flow, data structures, and module use. Aviation and motorsport domain problems — weight and balance calculator, weather minimums checker, pit stop fuel calculator.
 
+**[angel-flight-matcher](https://github.com/Naterar/angel-flight-matcher)** — Mission-matching assistant for volunteer medical-transport flights, built on synthetic data after three years volunteering with Angel Flight West. Parses intake requests, validates them, and matches against pilot and aircraft constraints — returning a reason for every rejection, not just a filtered list. Next: LLM extraction from free-text requests with schema-validated output. Not affiliated with or endorsed by Angel Flight West.
+
 Includes formal test documentation across three programs — 77 test cases spanning functional and computational coverage, boundary value analysis, compound-condition truth tables, evaluation-order precedence, and negative input handling. Six defects logged, two High severity, one caught in requirements review before a single test was executed. The weather-minimums cases are now being automated in pytest with GitHub Actions.
 
 ## 🚧 Currently building
