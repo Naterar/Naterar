@@ -54,7 +54,7 @@ Documenting why something isn't a defect, and what it still costs the user, is t
 
 ## 🎯 Open to
 
-Applied AI and forward deployed engineering, cloud support and engineering, and QA and test automation. Remote, or Indiana / Texas / Northern Virginia / Ohio / Florida.
+Applied AI and forward-deployed engineering, cloud support and engineering, and QA and test automation. Remote, or Indiana / Texas / Northern Virginia / Ohio / Florida / New York / California.
 
 ## 📫 Contact
 
